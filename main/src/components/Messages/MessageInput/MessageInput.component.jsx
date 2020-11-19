@@ -3,7 +3,7 @@ import { Segment, Input, Button } from "semantic-ui-react";
 import firebase from "../../../server/firebase";
 import { connect } from "react-redux";
 import { ImageUpload } from "../ImageUpload/ImageUpload.component"
-import uuidv4 from "uuid/v4";
+import { v4 as uuidv4 } from 'uuid';
 
 const MessageInput = (props) => {
 
