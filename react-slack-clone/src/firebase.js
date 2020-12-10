@@ -7,6 +7,7 @@ var firebaseConfig = {
   apiKey: "AIzaSyBOEc9vYHKn-PqVkf6boWYuIJOR3Yn9AyU",
   authDomain: "bondfyr-lounge.firebaseapp.com",
   projectId: "bondfyr-lounge",
+  databaseURL: "https://bondfyr-lounge-default-rtdb.firebaseio.com/",
   storageBucket: "bondfyr-lounge.appspot.com",
   messagingSenderId: "103069752092",
   appId: "1:103069752092:web:90db2664a0c051d7a7f8d9",
